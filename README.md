@@ -1,3 +1,3 @@
 # Platzi Scripts
 
-Dummy tests are in `jenkins-tests`
+Ejercicios del curso basico de jenkings en platzi
